@@ -1,5 +1,5 @@
 # 21s
-Exercise for Simon Pearson
+
 
 Solution contains 3 projects
 1. 21s - project with library for task model
